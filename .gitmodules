@@ -1,0 +1,9 @@
+[submodule "GameJamsAndSprints"]
+	path = GameJamsAndSprints
+	url = https://github.com/teaganc/GameJamsAndSprints
+[submodule "ECSGameEngine"]
+	path = ECSGameEngine
+	url = https://github.com/teaganc/ECSGameEngine
+[submodule "LunarLanderCapstone"]
+	path = LunarLanderCapstone
+	url = https://github.com/teaganc/LunarLanderCapstone
