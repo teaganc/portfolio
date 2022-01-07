@@ -7,3 +7,6 @@
 [submodule "LunarLanderCapstone"]
 	path = LunarLanderCapstone
 	url = https://github.com/teaganc/LunarLanderCapstone
+[submodule "RunescapePathfinding"]
+	path = RunescapePathfinding
+	url = https://github.com/teaganc/RunescapePathfinding
