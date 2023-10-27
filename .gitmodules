@@ -7,3 +7,6 @@
 [submodule "RunescapePathfinding"]
 	path = RunescapePathfinding
 	url = https://github.com/teaganc/RunescapePathfinding
+[submodule "GazpreaCompiler"]
+	path = GazpreaCompiler
+	url = http://github.com/teaganc/GazpreaCompiler
